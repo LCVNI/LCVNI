@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <img src=https://github.com/LCVNI/LCVNI/raw/8e48106747da05c4796ac871b4acde4f7f83ddfb/musica-verde.gif
-)" alt="musica-gif" />
+  <img src=https://github.com/LCVNI/LCVNI/raw/8e48106747da05c4796ac871b4acde4f7f83ddfb/musica-verde.gif](https://github.com/LCVNI/LCVNI/raw/main/Uryuu%20Ishida.gif)
+)" alt="kyoraku-gif" />
 </p>
 
 ---
