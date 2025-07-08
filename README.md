@@ -14,6 +14,6 @@
 ---
 
 <p align="center">
-  <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA=="><img src=https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png )" alt="icone-instagram"/> Instagram</a> • 
-  <a href="https://www.linkedin.com/in/LCVNI/"><img src=https://raw.githubusercontent.com/LCVNI/LCVNI/main/logotipo-do-linkedin.png )" alt="icone-linkedin"/> LinkedIn</a>
+  <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA=="><img src=https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png width="16" height="16" )" alt="icone-instagram"/> Instagram</a> • 
+  <a href="https://www.linkedin.com/in/LCVNI/"><img src=https://raw.githubusercontent.com/LCVNI/LCVNI/main/logotipo-do-linkedin.png width="16" height="16" )" alt="icone-linkedin"/> LinkedIn</a>
 </p>
