@@ -14,6 +14,6 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/LCVNI">🌟 GitHub</a> • 
+  <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==">💻 Instagram</a> • 
   <a href="https://www.linkedin.com/in/LCVNI/">💼 LinkedIn</a>
 </p>
