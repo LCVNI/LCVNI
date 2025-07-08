@@ -1,16 +1,18 @@
-## Hi there 👋
+<!-- Profile README -->
 
-<!--
-**LCVNI/LCVNI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Oi 👋, eu sou [Lucas]</h1>
+<h3 align="center">💻 Apaixonado por [Música]</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌆 **Meu Skyline**
+<p align="center">
+  <img src="LINK_DO_SEU_SKYLINE_GIF_AQUI" alt="skyline gif" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/LCVNI">🌟 GitHub</a> • 
+  <a href="https://www.linkedin.com/in/LCVNI/">💼 LinkedIn</a>
+</p>
