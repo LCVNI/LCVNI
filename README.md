@@ -7,7 +7,8 @@
 
 ### 🌆 **Meu Skyline**
 <p align="center">
-  <img src="LINK_DO_SEU_SKYLINE_GIF_AQUI" alt="skyline gif" />
+  <img src="[LINK_DO_SEU_SKYLINE_GIF_AQUI](https://github.com/LCVNI/LCVNI/raw/8e48106747da05c4796ac871b4acde4f7f83ddfb/musica-verde.gif
+)" alt="musica-gif" />
 </p>
 
 ---
