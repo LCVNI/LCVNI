@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Oi 👋, eu sou Lucas</h1>
-<h3 align="center">💻 Apaixonado por [Música]</h3>
+<h3 align="center"> 🌎 Welcome to my world</h3>
 
 ---
 
