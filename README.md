@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img src=https://github.com/LCVNI/LCVNI/raw/main/Uryuu%20Ishida.gif)
+  <img src=https://github.com/LCVNI/LCVNI/raw/main/Uryuu%20Ishida.gif
 )" alt="kyoraku-gif" />
 </p>
 
