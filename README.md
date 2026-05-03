@@ -1,7 +1,7 @@
 # 👨‍💻 Lucas | Developer & Researcher
 
 ### 💫 Sobre Mim
-Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados e automação. Atualmente, dedico meus estudos ao **PIMAT**, explorando métodos inteligentes aplicados a séries temporais para transformar dados brutos em previsões estratégicas[cite: 1].
+Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados e automação. Atualmente, dedico meus estudos ao **PIMAT**, explorando métodos inteligentes aplicados a séries temporais para transformar dados brutos em previsões estratégicas.
 
 ---
 
@@ -31,9 +31,9 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 ### 🚀 Perfil Profissional & Pesquisa
 
-*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho[cite: 1].
-*   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico[cite: 1].
-*   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático[cite: 1].
+*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho.
+*   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico.
+*   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático.
 
 ---
 
@@ -45,3 +45,8 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 | [**Instagram**](https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==) | [**LinkedIn**](https://www.linkedin.com/in/LCVNI/) |
 
 </div>
+
+---
+<p align="center">
+  <i>"Se você se dedicar a apenas um aspecto, nunca verá a verdade do todo." — Miyamoto Musashi</i>[cite: 1]
+</p>
