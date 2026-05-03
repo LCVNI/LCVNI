@@ -1,17 +1,24 @@
+<!-- Profile README -->
+
+<h1 align="center">Oi 👋 eu sou Lucas</h1>
+<h3 align="center"> 🌎 Welcome to my world</h3>
+
 ---
 
-<h2 align="center">🛠️ Linguagens e Tecnologias</h2>
 
+<p align="center">
+  <img src="https://github.com/LCVNI/LCVNI/raw/main/Uryuu%20Ishida.gif" alt="kyoraku-gif" />
+</p>
+
+---
+
+<h3 align="center">🛠️ Linguagens que eu uso</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-<p align="center">
-  <!-- MQL4 não possui ícone oficial no SimpleIcons, então usamos um badge customizado -->
-  <img src="https://img.shields.io/badge/MQL4-Trade-blue?style=for-the-badge" alt="MQL4" />
+  <img src="https://img.shields.io/badge/MQL4-2C4E77?style=for-the-badge&logo=metatrader5&logoColor=white" alt="MQL4" />
 </p>
 
 ---
