@@ -8,7 +8,10 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 ### 🔍 Pesquisa & Acadêmico
 <p align="center">
   <a href="https://www.pimat.uneb.br/" target="_blank">
-    <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/PIMAT.png" width="250" alt="PIMAT Logo" style="border-radius: 12px; box-shadow: 0px 4px 25px rgba(0,0,0,0.15); border: 1px solid #e1e4e8;">
+    <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/PIMAT.png" 
+         width="280" 
+         alt="PIMAT Logo" 
+         style="border-radius: 15px; border: 1px solid #d0d7de; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 5px; background-color: white;">
   </a>
   <br>
   <b>Pesquisador no PIMAT</b>
@@ -31,7 +34,7 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 ### 🚀 Perfil Profissional & Pesquisa
 
-*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho.
+*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho[cite: 1].
 *   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico[cite: 1].
 *   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático[cite: 1].
 
@@ -41,19 +44,19 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 #### 🌐 Conecte-se comigo
 
-<table style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 0 15px;">
+<table style="border-collapse: collapse; border: 0px solid transparent;">
+  <tr style="border: 0px solid transparent;">
+    <td style="border: 0px solid transparent; padding: 0 20px;">
       <a href="https://www.linkedin.com/in/LCVNI/" target="_blank">
         <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn">
       </a>
     </td>
-    <td style="border: none; padding: 0 15px;">
+    <td style="border: 0px solid transparent; padding: 0 20px;">
       <a href="mailto:lucasviniciusjj5678@gmail.com">
         <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail">
       </a>
     </td>
-    <td style="border: none; padding: 0 15px;">
+    <td style="border: 0px solid transparent; padding: 0 20px;">
       <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank">
         <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram">
       </a>
