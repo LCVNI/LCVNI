@@ -1,7 +1,7 @@
 # 👨‍💻 Lucas | Developer & Researcher
 
 ### 💫 Sobre Mim
-Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados e automação. Atualmente, dedico meus estudos ao **PIMAT**, explorando métodos inteligentes aplicados a séries temporais para transformar dados brutos em previsões estratégicas.
+Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados e automação. Atualmente, dedico meus estudos ao **PIMAT**, explorando métodos inteligentes aplicados a séries temporais para transformar dados brutos em previsões estratégicas[cite: 1].
 
 ---
 
@@ -31,22 +31,15 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 ### 🚀 Perfil Profissional & Pesquisa
 
-*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho.
+*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho[cite: 1].
 *   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico[cite: 1].
 *   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático[cite: 1].
 
 ---
 
 <div align="center">
-
-#### 🌐 Conecte-se comigo
-
-<p align="center">
-  <nobr>
-    <a href="https://www.linkedin.com/in/LCVNI/" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:lucasviniciusjj5678@gmail.com"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram"></a>
-  </nobr>
-</p>
-
+  <h4>🌐 Conecte-se comigo</h4>
+  <p align="center"><a href="https://www.linkedin.com/in/LCVNI/" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:lucasviniciusjj5678@gmail.com"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram"></a></p>
 </div>
 
 ---
