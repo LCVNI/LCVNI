@@ -31,7 +31,7 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 ### 🚀 Perfil Profissional & Pesquisa
 
-*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho[cite: 1].
+*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho.
 *   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico[cite: 1].
 *   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático[cite: 1].
 
@@ -41,27 +41,9 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 #### 🌐 Conecte-se comigo
 
-<table align="center" style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none;">
-      <a href="https://www.linkedin.com/in/LCVNI/" target="_blank">
-        <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn">
-      </a>
-    </td>
-    <td style="border: none;">&nbsp;&nbsp;</td>
-    <td style="border: none;">
-      <a href="mailto:lucasviniciusjj5678@gmail.com">
-        <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail">
-      </a>
-    </td>
-    <td style="border: none;">&nbsp;&nbsp;</td>
-    <td style="border: none;">
-      <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank">
-        <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram">
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/LCVNI/" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:lucasviniciusjj5678@gmail.com"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram"></a>
+</p>
 
 </div>
 
