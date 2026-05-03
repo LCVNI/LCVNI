@@ -13,7 +13,7 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
   <br>
   <b>Pesquisador no PIMAT</b>
   <br>
-  <i>Predições Inteligentes em Métodos Aplicados a Séries Temporais</i>
+  <i>Predições Inteligentes em Métodos Aplicado a Séries Temporais</i>
 </p>
 
 ---
@@ -37,19 +37,15 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/LCVNI/" target="_blank">
-    <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:lucasviniciusjj5678@gmail.com">
-    <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank">
-    <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram">
-  </a>
-</p>
+<div align="center">
+
+#### 🌐 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/LCVNI/" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:lucasviniciusjj5678@gmail.com"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram"></a>
+
+</div>
+
+---
 
 <p align="center">
   <i>"Se você se dedicar a apenas um aspecto, nunca verá a verdade do todo." — Miyamoto Musashi</i>[cite: 1]
