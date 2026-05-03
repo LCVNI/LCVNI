@@ -24,6 +24,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA=="><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="18" height="18" alt="icone-instagram"/> Instagram</a> • 
-  <a href="https://www.linkedin.com/in/LCVNI/"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="18" height="18" alt="icone-linkedin"/> LinkedIn</a>
+  <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="18" height="18" alt="icone-instagram"/> Instagram</a> 
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/LCVNI/" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="18" height="18" alt="icone-linkedin"/> LinkedIn</a>
 </p>
