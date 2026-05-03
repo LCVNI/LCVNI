@@ -19,7 +19,7 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
   <br>
   <b>Pesquisador no PIMAT</b>
   <br>
-  <i>Predições Inteligentes em Métodos Aplicados a Séries Temporais</i>
+  <i>Predições Inteligentes em Métodos Aplicados a Séries Temporais</i>[cite: 1]
 </p>
 
 ---
@@ -29,7 +29,7 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 | <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/MQL4-2C4E77?style=for-the-badge&logo=metatrader5&logoColor=white" height="40"> |
 | :---: | :---: | :---: | :---: | :---: |
-| **Data Science** | **Low Level** | **Systems** | **OOP** | **Trading** |
+| **Data Science** | **Low Level** | **Systems** | **OOP** | **Trading** |[cite: 1]
 
 </div>
 
@@ -37,9 +37,9 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 ### 🚀 Perfil Profissional & Pesquisa
 
-*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho.
-*   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico.
-*   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático.
+*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho.[cite: 1]
+*   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico.[cite: 1]
+*   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático.[cite: 1]
 
 ---
 
@@ -50,7 +50,7 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 <table style="border-collapse: collapse; border: 0px solid transparent;">
   <tr style="border: 0px solid transparent;">
     <td style="border: 0px solid transparent; padding: 0 20px;">
-      <a href="www.linkedin.com/in/lucas-vinicius-900813311" target="_blank">
+      <a href="https://www.linkedin.com/in/lucas-vinicius-900813311" target="_blank">
         <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn">
       </a>
     </td>
@@ -72,5 +72,5 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 ---
 
 <p align="center">
-  <i>"Se você se dedicar a apenas um aspecto, nunca verá a verdade do todo." — Miyamoto Musashi</i>
+  <i>"Se você se dedicar a apenas um aspecto, nunca verá a verdade do todo." — Miyamoto Musashi</i>[cite: 1]
 </p>
