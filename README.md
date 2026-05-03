@@ -50,7 +50,7 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 <table style="border-collapse: collapse; border: 0px solid transparent;">
   <tr style="border: 0px solid transparent;">
     <td style="border: 0px solid transparent; padding: 0 20px;">
-      <a href="https://www.linkedin.com/in/LCVNI/" target="_blank">
+      <a href="www.linkedin.com/in/lucas-vinicius-900813311" target="_blank">
         <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn">
       </a>
     </td>
