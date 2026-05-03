@@ -17,7 +17,7 @@
   <a href="https://www.pimat.uneb.br/" target="_blank">
     <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/PIMAT.png" 
          alt="Logo PIMAT" 
-         width="500" 
+         width="250" 
          style="border-radius: 12px; box-shadow: 0px 4px 25px rgba(0,0,0,0.15); border: 1px solid #e1e4e8;" />
   </a>
   <br />
