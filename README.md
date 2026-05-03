@@ -1,7 +1,7 @@
 # 👨‍💻 Lucas | Developer & Researcher
 
 ### 💫 Sobre Mim
-Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados e automação. Atualmente, dedico meus estudos ao **PIMAT**, explorando métodos inteligentes aplicados a séries temporais para transformar dados brutos em previsões estratégicas.
+Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados e automação. Atualmente, dedico meus estudos ao **PIMAT**, explorando métodos inteligentes aplicados a séries temporais para transformar dados brutos em previsões estratégicas[cite: 1].
 
 ---
 
@@ -13,7 +13,7 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
   <br>
   <b>Pesquisador no PIMAT</b>
   <br>
-  <i>Predições Inteligentes em Métodos Aplicado a Séries Temporais</i>
+  <i>Predições Inteligentes em Métodos Aplicados a Séries Temporais</i>
 </p>
 
 ---
@@ -31,22 +31,26 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 ### 🚀 Perfil Profissional & Pesquisa
 
-*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho.
-*   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico.
-*   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático.
+*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho[cite: 1].
+*   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico[cite: 1].
+*   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático[cite: 1].
 
 ---
 
-### 🌐 Conecte-se comigo
-<div align="center">
-
-| <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"> | <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"> |
-| :---: | :---: |
-| [**Instagram**](https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==) | [**LinkedIn**](https://www.linkedin.com/in/LCVNI/) |
-
-</div>
-
----
 <p align="center">
-  <i>"Se você se dedicar a apenas um aspecto, nunca verá a verdade do todo." — Miyamoto Musashi</i>
+  <a href="https://www.linkedin.com/in/LCVNI/" target="_blank">
+    <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:lucasviniciusjj5678@gmail.com">
+    <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank">
+    <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram">
+  </a>
+</p>
+
+<p align="center">
+  <i>"Se você se dedicar a apenas um aspecto, nunca verá a verdade do todo." — Miyamoto Musashi</i>[cite: 1]
 </p>
