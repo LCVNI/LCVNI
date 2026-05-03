@@ -5,9 +5,10 @@
 
 ---
 
-
 <p align="center">
-  <img src="https://github.com/LCVNI/LCVNI/raw/main/Uryuu%20Ishida.gif" alt="kyoraku-gif" />
+  <img src="https://github.com/LCVNI/LCVNI/raw/main/Uryuu%20Ishida.gif" 
+       alt="kyoraku-gif" 
+       style="border-radius: 10px; box-shadow: 0px 10px 30px rgba(0,0,0,0.5); -webkit-box-shadow: 0px 10px 30px rgba(0,0,0,0.5);" />
 </p>
 
 ---
@@ -23,8 +24,19 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="18" height="18" alt="icone-instagram"/> Instagram</a> 
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/LCVNI/" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="18" height="18" alt="icone-linkedin"/> LinkedIn</a>
-</p>
+<!-- Tabela para garantir que fiquem lado a lado em qualquer tela -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank">
+        <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="18" height="18" alt="icone-instagram"/> Instagram
+      </a>
+    </td>
+    <td align="center">&nbsp;&nbsp;•&nbsp;&nbsp;</td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/LCVNI/" target="_blank">
+        <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="18" height="18" alt="icone-linkedin"/> LinkedIn
+      </a>
+    </td>
+  </tr>
+</table>
