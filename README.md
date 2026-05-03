@@ -8,15 +8,18 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 ### 🔍 Pesquisa & Acadêmico
 <p align="center">
   <a href="https://www.pimat.uneb.br/" target="_blank">
-    <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/PIMAT.png" 
-         width="280" 
-         alt="PIMAT Logo" 
-         style="border-radius: 15px; border: 1px solid #d0d7de; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 5px; background-color: white;">
+    <table>
+      <tr>
+        <td align="center">
+          <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/PIMAT.png" width="280" alt="PIMAT Logo">
+        </td>
+      </tr>
+    </table>
   </a>
   <br>
   <b>Pesquisador no PIMAT</b>
   <br>
-  <i>Predições Inteligentes em Métodos Aplicados a Séries Temporais</i>
+  <i>Predições Inteligentes em Métodos Aplicados a Séries Temporais</i>[cite: 1]
 </p>
 
 ---
@@ -26,7 +29,7 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 | <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="40"> | <img src="https://img.shields.io/badge/MQL4-2C4E77?style=for-the-badge&logo=metatrader5&logoColor=white" height="40"> |
 | :---: | :---: | :---: | :---: | :---: |
-| **Data Science** | **Low Level** | **Systems** | **OOP** | **Trading** |
+| **Data Science** | **Low Level** | **Systems** | **OOP** | **Trading** |[cite: 1]
 
 </div>
 
@@ -34,9 +37,9 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 ### 🚀 Perfil Profissional & Pesquisa
 
-*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho[cite: 1].
-*   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico[cite: 1].
-*   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático[cite: 1].
+*   🤖 **Python Specialist:** Focado em Data Science e automação de processos para otimização de fluxos de trabalho.[cite: 1]
+*   📊 **Smart Predictions:** Atuando com séries temporais e métodos preditivos inteligentes no ambiente acadêmico.[cite: 1]
+*   🌐 **Modern Architectures:** Interessado na construção de soluções escaláveis que unem pesquisa científica e desenvolvimento prático.[cite: 1]
 
 ---
 
