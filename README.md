@@ -42,7 +42,9 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 #### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/LCVNI/" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:lucasviniciusjj5678@gmail.com"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram"></a>
+  <nobr>
+    <a href="https://www.linkedin.com/in/LCVNI/" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:lucasviniciusjj5678@gmail.com"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram"></a>
+  </nobr>
 </p>
 
 </div>
