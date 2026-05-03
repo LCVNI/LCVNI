@@ -48,5 +48,5 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 ---
 <p align="center">
-  <i>"Se você se dedicar a apenas um aspecto, nunca verá a verdade do todo." — Miyamoto Musashi</i>[cite: 1]
+  <i>"Se você se dedicar a apenas um aspecto, nunca verá a verdade do todo." — Miyamoto Musashi</i>
 </p>
