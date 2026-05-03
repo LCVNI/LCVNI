@@ -11,7 +11,9 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
     <table>
       <tr>
         <td align="center">
+          <a href="https://www.pimat.uneb.br/" target<_"blank">
           <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/PIMAT.png" width="280" alt="PIMAT Logo">
+          <a/>
         </td>
       </tr>
     </table>
