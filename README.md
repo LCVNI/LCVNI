@@ -1,7 +1,7 @@
 # 👨‍💻 Lucas | Developer & Researcher
 
 ### 💫 Sobre Mim
-Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados e automação. Atualmente, dedico meus estudos ao **PIMAT**, explorando métodos inteligentes aplicados a séries temporais para transformar dados brutos em previsões estratégicas[cite: 1].
+Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados e automação. Atualmente, dedico meus estudos ao **PIMAT**, explorando métodos inteligentes aplicados a séries temporais para transformar dados brutos em previsões estratégicas.
 
 ---
 
@@ -41,7 +41,27 @@ Sou desenvolvedor e pesquisador focado na intersecção entre análise de dados 
 
 #### 🌐 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/LCVNI/" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:lucasviniciusjj5678@gmail.com"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank"><img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram"></a>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <a href="https://www.linkedin.com/in/LCVNI/" target="_blank">
+        <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/linkedin.png" width="30" height="30" alt="LinkedIn">
+      </a>
+    </td>
+    <td style="border: none;">&nbsp;&nbsp;</td>
+    <td style="border: none;">
+      <a href="mailto:lucasviniciusjj5678@gmail.com">
+        <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/gmail.png" width="30" height="30" alt="Gmail">
+      </a>
+    </td>
+    <td style="border: none;">&nbsp;&nbsp;</td>
+    <td style="border: none;">
+      <a href="https://www.instagram.com/lc_vni?igsh=MWl5d3hldm8zOHdiMA==" target="_blank">
+        <img src="https://raw.githubusercontent.com/LCVNI/LCVNI/main/instagram.png" width="30" height="30" alt="Instagram">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
